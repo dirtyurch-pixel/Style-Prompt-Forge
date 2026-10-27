@@ -1,0 +1,9 @@
+STYLE PROMPT FORGE FOR WINDOWS
+
+Double-click "Open Style Prompt Forge". The first time, a black window sets things up for about a minute, then the Forge opens in its own window.
+A "Style Prompt Forge" shortcut is put on your desktop and in the Start menu. Use those from then on.
+
+Your work saves to the "data" folder here, with a daily copy for two weeks and a copy in OneDrive.
+Ask Claude buttons: they use Lyric Studio's Claude key automatically, or add one in Tools > Claude & this PC.
+
+Keep all these files together. If you move the folder, double-click "Open Style Prompt Forge" again.
